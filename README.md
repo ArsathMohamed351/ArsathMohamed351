@@ -12,6 +12,8 @@
 
 - 📄 Naukri: [Click Here](https://www.naukri.com/mnjuser/profile)
 
+- 📄 Resume: [click Here](file:///C:/Users/Arsath%20Mohamed/Desktop/Resume/Main%20Resume.pdf)
+
     </td>
 
     <td width="40%">
