@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Arsath Mohamed
 
-**Data Engineer passionate about building scalable data platforms and ETL/ELT solutions using Azure Data Factory, Azure Databricks, Microsoft Fabric, SQL, Python, PySpark, and Delta Lake. Experienced in incremental data processing, data warehousing, Medallion Architecture, and cloud-based analytics solutions. Skilled in Airflow, Docker, dbt, Git/GitHub, and Power BI, with growing expertise in Generative AI, LangChain, LangGraph, RAG, and AWS.**
+**Multi-Cloud AI Data Engineer passionate about building scalable data platforms and ETL/ELT pipelines using AWS, Azure, Databricks, Microsoft Fabric, SQL, Python, PySpark, Delta Lake, and dbt. Experienced in Medallion Architecture, incremental data processing, dimensional modeling, Star Schema, One Big Table (OBT), and cloud-based data warehousing. Skilled in Apache Airflow, Docker, Git/GitHub, Power BI, and building modern analytics solutions on cloud platforms.**
 
 - 🔭 I'm a Data Engineer
 
