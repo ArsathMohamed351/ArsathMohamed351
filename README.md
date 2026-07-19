@@ -23,5 +23,5 @@
 ## ⚒️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,python,mysql,mongodb,docker,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,python,mysql,mongodb,docker,git,github,vscode,linux,s3" />
 </p>
