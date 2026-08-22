@@ -6,6 +6,8 @@
 
 **Multi-Cloud AI Data Engineer passionate about building scalable data platforms and ETL/ELT pipelines using AWS, Azure, Databricks, Microsoft Fabric, SQL, Python, PySpark, Delta Lake, and dbt. Experienced in Medallion Architecture, incremental data processing, dimensional modeling, Star Schema, One Big Table (OBT), and cloud-based data warehousing. Skilled in Apache Airflow, Docker, Git/GitHub, Power BI, and building modern analytics solutions on cloud platforms.**
 
+**Contact me through: arsath.pvt351@gmail.com**
+
 - 🔭 I'm a Data Engineer
 
 - 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/arsath-mohamed-710067323/?skipRedirect=true)
